@@ -1,2 +1,10 @@
 GET  /api/v1/job/search/job  28/9/2024, 2:18:28 pm
 GET  /api/v1/job/search/job2  28/9/2024, 2:22:22 pm
+GET  /api/v1/job/search/job2  28/9/2024, 2:25:36 pm
+GET  /api/v1/job/search/job3  28/9/2024, 2:25:40 pm
+PUT  /api/v1/job/update/66f52f3b57395ba2199c3524  28/9/2024, 2:27:13 pm
+PUT  /api/v1/job/update/66f52f3b57395ba2199c3524  28/9/2024, 2:27:36 pm
+GET  /api/v1/job/search/job3  28/9/2024, 2:27:53 pm
+GET  /api/v1/job/search/job4  28/9/2024, 2:28:00 pm
+GET  /api/v1/job/search/job1  28/9/2024, 2:28:08 pm
+GET  /api/v1/job/search/job2  28/9/2024, 2:28:15 pm
